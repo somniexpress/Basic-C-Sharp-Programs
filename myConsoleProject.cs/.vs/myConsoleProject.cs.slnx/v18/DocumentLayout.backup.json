@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sandra\\Documents\\Basic_C#_Programs\\Basic-C-Sharp-Programs\\myConsoleProject.cs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9D8367-1928-48D2-88B6-7FE0224697E1}|..\\myConsoleProject.cs\\myConsoleProject.cs.vcxproj|C:\\Users\\sandra\\Documents\\Basic_C#_Programs\\Basic-C-Sharp-Programs\\myConsoleProject.cs\\myConsoleProject.cs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AF9D8367-1928-48D2-88B6-7FE0224697E1}|..\\myConsoleProject.cs\\myConsoleProject.cs.vcxproj|solutionrelative:myConsoleProject.cs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "myConsoleProject.cs.cpp",
+              "DocumentMoniker": "C:\\Users\\sandra\\Documents\\Basic_C#_Programs\\Basic-C-Sharp-Programs\\myConsoleProject.cs\\myConsoleProject.cs.cpp",
+              "RelativeDocumentMoniker": "myConsoleProject.cs.cpp",
+              "ToolTip": "C:\\Users\\sandra\\Documents\\Basic_C#_Programs\\Basic-C-Sharp-Programs\\myConsoleProject.cs\\myConsoleProject.cs.cpp",
+              "RelativeToolTip": "myConsoleProject.cs.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-23T06:52:50.079Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
